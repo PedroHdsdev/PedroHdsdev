@@ -1,5 +1,5 @@
 Oi 👋 sou iniciante na are de TI, com muita 
-paixao por desenvolvimento e analise  no mundo digital.
+paixao por desenvolvimento e analise
 
 🌱 Atualmente estou aprendendo Python e SQL, Escalonamento.
 
