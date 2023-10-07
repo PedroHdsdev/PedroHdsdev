@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PEDROHdS_DEV</h1>
-<h3 align="center">sou iniciante na are de TI, com muita paixão por desenvolvimento e analise.</h3>
+<h3 align="center">estudante ingressando, com muita paixão por desenvolvimento e analise.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e SQL, Escalonamento.**
 
